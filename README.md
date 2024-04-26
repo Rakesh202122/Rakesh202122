@@ -9,6 +9,13 @@
 
 - 📫 How to reach me **officialrakesh180@gmail.com**
 
+- ## 📂 My Projects
+
+Here are some of the projects I'm proud of:
+
+1. [Learning Management System](https://projectpalacebazaar.vercel.app/) - A Learning Management System (LMS) is a software application or platform designed to facilitate the administration, documentation, tracking, reporting, and delivery of educational courses or training programs. It provides a centralized hub where instructors can create, manage, and deliver content, as well as track and assess learners' progress. LMSs are commonly used in educational institutions, corporate training settings, and other organizations to streamline the learning process, enhance collaboration, and ensure efficient knowledge transfer.
+2. [Portfolio](https://fir-8afa7.web.app/) - A portfolio website is a concise online showcase of an individual's or company's work, skills, and services, serving to impress visitors and potential clients with past projects, testimonials, and contact information.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@pmcnfhzi-the-encoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pmcnfhzi-the-encoder" height="30" width="40" /></a>
