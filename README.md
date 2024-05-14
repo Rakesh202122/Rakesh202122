@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
 <h3 align="center">From Lines of Code to Lines of Impact: Empowering Change Through Technology and Building Tomorrow's Solutions Today: A Journey in Software Development</h3>
 
-- 🔭 I’m currently working on [BharatClap](bharatclap.com)
-
+- 🔭 I’m currently working on Build My Personal Brand
 - 🌱 I’m currently learning **Entrepreneurship, Start-Up, DSA, Full Stack Development**
 
 - 💬 Ask me about **MERN**
